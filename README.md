@@ -1,2 +1,7 @@
 # cynne844.github.io
-Professional portfolio showcasing data analysis projects built using R, SQL, and Tableau. 
+Welcome to my Github portfolio. Here are some of the projects I've worked on:
+### [Project One](https://github.com/cynne844/)
+
+
+### [Project Two](https://github.com/cyne844/)
+
